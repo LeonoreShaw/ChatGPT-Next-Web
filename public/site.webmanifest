@@ -1,6 +1,6 @@
 {
-  "name": "NextChat",
-  "short_name": "NextChat",
+  "name": "Chat Web Service",
+  "short_name": "ChatGPT",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
